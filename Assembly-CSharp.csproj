@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{85979305-D5F4-D854-BDA8-AB1C27E731CC}</ProjectGuid>
+    <ProjectGuid>{F7B002FF-E5E4-1680-81AF-6D6C96EFCB3F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\GrabObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
